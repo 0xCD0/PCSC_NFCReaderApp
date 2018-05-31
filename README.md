@@ -1,2 +1,6 @@
-# PC-SC_Based_NFC_Reader
-PC/SC standard NFC Reader Program for .NET
+# - PC/SC Standard NFC Reader for .NET
+- This Program is an SIMPLE R/W program that uses the PC/SC specification.
+- It is a wrapper program using the PCSC library. simple.
+
+# - Version History
+> V1.0 : Upload Soon..
