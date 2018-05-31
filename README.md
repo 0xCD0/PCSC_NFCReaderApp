@@ -3,4 +3,4 @@
 - It is a wrapper program using the PCSC-Sharp library. It simple.
 
 # - Version History
-> V1.0 : Upload Soon..
+> V1.0 : First version upload
